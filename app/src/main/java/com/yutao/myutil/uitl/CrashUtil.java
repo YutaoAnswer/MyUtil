@@ -1,4 +1,4 @@
-package com.yutao.myutil;
+package com.yutao.myutil.uitl;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

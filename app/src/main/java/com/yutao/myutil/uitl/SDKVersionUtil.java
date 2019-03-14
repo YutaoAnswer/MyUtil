@@ -1,4 +1,4 @@
-package com.yutao.myutil;
+package com.yutao.myutil.uitl;
 
 public class SDKVersionUtil {
 
