@@ -10,6 +10,7 @@ public class SDKVersionUtil {
         try {
             version = Integer.valueOf(android.os.Build.VERSION.SDK);
         } catch (NumberFormatException e) {
+            e.printStackTrace();
         }
         return version;
     }
